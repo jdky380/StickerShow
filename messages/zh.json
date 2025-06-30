@@ -1,0 +1,128 @@
+{
+  "FileDesc": {
+    "lang": "en",
+    "language": "简体中文",
+    "languageInChineseSimple": "简体中文"
+  },
+  "IndexPageText": {
+    "title": "中文Title",
+    "description": "中文description",
+    "h1Text": "首页 H1",
+    "descriptionBelowH1Text": "首页 H1下方的文字"
+  },
+  "CommonText": {
+    "loadingText": "加载中...",
+    "generateText": "生成中...",
+    "placeholderText": "在此处输入或粘贴文本...",
+    "buttonText": "生成",
+    "footerDescText": "footer左下角文字",
+    "timesLeft": "您可以生成",
+    "timesRight": "次",
+    "download": "下载",
+    "result": "结果",
+    "moreWorks": "我的贴纸",
+    "generateNew": "生成新的",
+    "displayPublic": "公开展示",
+    "similarText": "相似",
+    "prompt": "输入提示",
+    "revised": "修订提示",
+    "exploreMore": "更多贴纸",
+    "keyword": "贴纸",
+    "searchButtonText": "搜索"
+  },
+  "MenuText": {
+    "header0": "贴纸生成器",
+    "header1": "我的贴纸",
+    "header2": "发现贴纸",
+    "header3": "搜索贴纸",
+    "footerLegal": "法律信息",
+    "footerLegal0": "隐私政策",
+    "footerLegal1": "条款和条件",
+    "footerSupport": "支持",
+    "footerSupport0": "定价",
+    "footerSupport1": "管理订阅"
+  },
+  "AuthText": {
+    "loginText": "登录",
+    "loginModalDesc": "请继续登录",
+    "loginModalButtonText": "使用 Google 登录",
+    "logoutModalDesc": "您想要登出吗？",
+    "confirmButtonText": "确认",
+    "cancelButtonText": "取消"
+  },
+  "PricingText": {
+    "title": "定价",
+    "description": "价格页面description",
+    "h1Text": "获取生成计划",
+    "basic": "基础",
+    "essential": "必要",
+    "growth": "成长",
+    "buyText": "开始",
+    "popularText": "受欢迎的",
+    "creditsText": "生成次数",
+    "creditText": "次",
+    "free": "免费",
+    "free0": "免费计划",
+    "freeText": "当前计划",
+    "freeIntro0": "每月生成 %freeTimes% 次",
+    "freeIntro1": "选择不公开生成结果",
+    "freeIntro2": "下载带有透明背景的图片",
+    "subscriptionIntro0": "无限生成",
+    "subscriptionIntro1": "选择不公开生成结果",
+    "subscriptionIntro2": "下载带有透明背景的图片",
+    "subscriptionIntro3": "以 SVG 格式下载图片",
+    "subscriptionIntro4": "图片分辨率提升至 1024X1024",
+    "monthText": "月",
+    "monthlyText": "按月计费",
+    "annualText": "年",
+    "annuallyText": "按年计费",
+    "annuallySaveText": "节省 50%"
+  },
+  "PrivacyPolicyText": {
+    "title": "隐私政策 title",
+    "description": "隐私政策description",
+    "h1Text": "隐私政策 H1",
+    "detailText": "隐私政策详情 markdown 文本"
+  },
+  "TermsOfServiceText": {
+    "title": "服务条款 title",
+    "description": "服务条款description",
+    "h1Text": "服务条款 H1",
+    "detailText": "服务条款详情 markdown 文本"
+  },
+  "WorksText": {
+    "title": "我的页面 title",
+    "description": "我的页面 description",
+    "h1Text": "我的页面 H1",
+    "descriptionBelowH1Text": "我的页面 H1下方的文字",
+    "descText": "没有贴纸",
+    "toContinue": "继续。"
+  },
+  "ExploreText": {
+    "title": "发现 %countSticker% 张免费 PNG 贴纸下载",
+    "description": "为您的创意项目发现超过 %countSticker% 张免费的 PNG 格式贴纸。轻松下载并为社交媒体、网站等增添风采！",
+    "h1Text": "发现页面 H1",
+    "descriptionBelowH1Text": "发现页面 H1下方的文字",
+    "pageText": "第 %pageNumber% 页",
+    "h2Text": "探索我们的贴纸系列，包含 %countSticker% 张免费的 PNG 格式贴纸，便于下载"
+  },
+  "DetailText": {
+    "title": "%prompt% 贴纸，以 PNG 或 SVG 格式下载",
+    "description": "发现 %prompt% 贴纸，现在就下载 PNG 或 SVG 格式！",
+    "h1Text": "%prompt% 贴纸",
+    "descriptionBelowH1Text": "发现 %prompt% 贴纸，现在就下载 PNG 或 SVG 格式！",
+    "numberText": "#%detailId%",
+    "h2Text": "%prompt% 贴纸系列"
+  },
+  "SearchText": {
+    "title": "搜索 %countSticker% 张免费 PNG 贴纸进行下载",
+    "description": "为您的创意项目搜索超过 %countSticker% 张免费的 %prompt% PNG 格式贴纸。轻松下载并为社交媒体、网站等增添风采！",
+    "h1Text": "搜索贴纸",
+    "h2Text": "搜索我们的 %countSticker% 张免费贴纸，支持 PNG 格式，便于下载",
+    "titleSearch": "搜索 %countSticker% 免费 %prompt% 贴纸",
+    "h2TextSearch": "搜索我们的 %countSticker% 张免费 %prompt% 贴纸，支持 PNG 格式，方便下载"
+  },
+  "QuestionText": {
+    "detailText": ""
+  }
+}

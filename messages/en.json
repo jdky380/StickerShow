@@ -1,0 +1,128 @@
+{
+  "FileDesc": {
+    "lang": "en",
+    "language": "English",
+    "languageInChineseSimple": "英语"
+  },
+  "IndexPageText": {
+    "title": "英文Title",
+    "description": "英文description",
+    "h1Text": "英文首页 H1",
+    "descriptionBelowH1Text": "英文首页 H1下方的文字"
+  },
+  "CommonText": {
+    "loadingText": "Loading...",
+    "generateText": "Generating...",
+    "placeholderText": "Type or paste text here...",
+    "buttonText": "Generate",
+    "footerDescText": "英文footer左下角文字",
+    "timesLeft": "You can generate",
+    "timesRight": "times",
+    "download": "Download",
+    "result": "Result",
+    "moreWorks": "My Stickers",
+    "generateNew": "Generate New",
+    "displayPublic": "display public",
+    "similarText": "similar",
+    "prompt": "input prompt",
+    "revised": "revised prompt",
+    "exploreMore": "More Stickers",
+    "keyword": "sticker",
+    "searchButtonText": "Search"
+  },
+  "MenuText": {
+    "header0": "Sticker Generator",
+    "header1": "My Stickers",
+    "header2": "Discover Stickers",
+    "header3": "Search Stickers",
+    "footerLegal": "Legal",
+    "footerLegal0": "Privacy Policy",
+    "footerLegal1": "Terms & Conditions",
+    "footerSupport": "Support",
+    "footerSupport0": "Pricing",
+    "footerSupport1": "Manage Subscribe"
+  },
+  "AuthText": {
+    "loginText": "Log in",
+    "loginModalDesc": "Please continue by logging in",
+    "loginModalButtonText": "Login with Google",
+    "logoutModalDesc": "Are you want to log out ?",
+    "confirmButtonText": "Confirm",
+    "cancelButtonText": "Cancel"
+  },
+  "PricingText": {
+    "title": "Pricing",
+    "description": "价格页面description",
+    "h1Text": "Get plan for generate",
+    "basic": "Basic",
+    "essential": "Essential",
+    "growth": "Growth",
+    "buyText": "Get started",
+    "popularText": "Popular",
+    "creditsText": "Generate times",
+    "creditText": "Generate",
+    "free": "Free",
+    "free0": "Free plan",
+    "freeText": "Current plan",
+    "freeIntro0": "%freeTimes% generate per month",
+    "freeIntro1": "Choose not to make the generated results public",
+    "freeIntro2": "Download images with transparent background",
+    "subscriptionIntro0": "Unlimited Generate",
+    "subscriptionIntro1": "Choose not to make the generated results public",
+    "subscriptionIntro2": "Download images with transparent background",
+    "subscriptionIntro3": "Download images in SVG format",
+    "subscriptionIntro4": "Image resolution increased to 1024X1024",
+    "monthText": "month",
+    "monthlyText": "billed monthly",
+    "annualText": "annual",
+    "annuallyText": "billed yearly",
+    "annuallySaveText": "save 50%"
+  },
+  "PrivacyPolicyText": {
+    "title": "英文隐私政策 title",
+    "description": "英文隐私政策description",
+    "h1Text": "英文隐私政策 H1",
+    "detailText": "英文隐私政策详情 markdown 文本"
+  },
+  "TermsOfServiceText": {
+    "title": "英文服务条款 title",
+    "description": "英文服务条款description",
+    "h1Text": "英文服务条款 H1",
+    "detailText": "英文服务条款详情 markdown 文本"
+  },
+  "WorksText": {
+    "title": "英文我的页面 title",
+    "description": "英文我的页面 description",
+    "h1Text": "英文我的页面 H1",
+    "descriptionBelowH1Text": "英文我的页面 H1下方的文字",
+    "descText": "Don't have sticker",
+    "toContinue": "to continue."
+  },
+  "ExploreText": {
+    "title": "Discover %countSticker% Free PNG Stickers for Download",
+    "description": "Discover over %countSticker% free stickers in PNG format for your creative projects. Easily download and add flair to social media, websites, and more!",
+    "h1Text": "Discover Stickers",
+    "descriptionBelowH1Text": "Your Go-To Free Online Custom Sticker Maker & Generator!",
+    "pageText": "Page %pageNumber%",
+    "h2Text": "Discover Our Collection of %countSticker% Free Stickers in PNG Format for Easy Download"
+  },
+  "DetailText": {
+    "title": "%prompt% Sticker, Download in PNG or SVG",
+    "description": "Discover the %prompt% sticker, Download in PNG or SVG format now!",
+    "h1Text": "%prompt% Sticker",
+    "descriptionBelowH1Text": "Discover the %prompt% sticker, Download in PNG or SVG format now!",
+    "numberText": "#%detailId%",
+    "h2Text": "%prompt% Stickers Collection"
+  },
+  "SearchText": {
+    "title": "Search %countSticker% Free PNG Stickers for Download",
+    "description": "Search over %countStickerAll% free stickers in PNG format for your creative projects. Easily download and add flair to social media, websites, and more!",
+    "h1Text": "Search Stickers",
+    "h2Text": "Search Our Collection of %countSticker% Free Stickers in PNG Format for Easy Download",
+    "titleSearch": "Search %countSticker% Free %prompt% Stickers",
+    "h2TextSearch": "Search Our Collection of %countSticker% Free %prompt% Stickers in PNG Format for Easy Download"
+  },
+  "QuestionText": {
+    "detailText": ""
+  }
+}

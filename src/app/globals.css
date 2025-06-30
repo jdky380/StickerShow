@@ -1,0 +1,63 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* styles.css */
+.div-markdown-color h1,
+.div-markdown-color h2,
+.div-markdown-color h3,
+.div-markdown-color h4,
+.div-markdown-color h5,
+.div-markdown-color h6 {
+    @apply text-gray-50;
+}
+
+.div-markdown-color a {
+    @apply text-gray-200;
+}
+
+.div-markdown-color strong {
+    @apply text-gray-50;
+}
+
+.custom-textarea:focus {
+    border: none !important;
+    outline: none !important;
+}
+
+
+.background-div {
+    background-image: linear-gradient(to left top, #14171f, #151829, #181831, #201739, #2b133e);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.background-header {
+    background-image: linear-gradient(to left top, #14171f, #151829, #181831, #201739, #2b133e);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.background-footer {
+    background-image: linear-gradient(to left top, #14171f, #151829, #181831, #201739, #2b133e);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.line-clamp-2 {
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 2;
+    overflow: hidden;
+}
+
+/* 定义一个棋盘格背景的样式 */
+.checkerboard {
+    /* 创建两个线性渐变，45度角，模拟棋盘格效果 */
+    background-image: linear-gradient(45deg, #f0f0f0 25%, transparent 25%, transparent 75%, #f0f0f0 75%, #f0f0f0),
+    linear-gradient(45deg, #f0f0f0 25%, #ffffff 25%, #ffffff 75%, #f0f0f0 75%, #f0f0f0);
+    /* 定义每个方格的大小为20px */
+    background-size: 20px 20px;
+    /* 偏移其中一个渐变，以产生交错效果 */
+    background-position: 0 0, 10px 10px;
+}
