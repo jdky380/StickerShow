@@ -8,7 +8,16 @@
     "title": "中文Title",
     "description": "中文description",
     "h1Text": "首页 H1",
-    "descriptionBelowH1Text": "首页 H1下方的文字"
+    "descriptionBelowH1Text": "首页 H1下方的文字",
+    "stickerGenerator": "贴纸生成器",
+    "inputPlaceholder": "在此输入或粘贴文本...",
+    "inputRequired": "请输入要生成贴纸的文本",
+    "generateButton": "生成贴纸",
+    "generating": "生成中...",
+    "generateFailed": "生成失败",
+    "networkError": "网络错误，请重试",
+    "result": "生成结果",
+    "prompt": "提示词"
   },
   "CommonText": {
     "loadingText": "加载中...",

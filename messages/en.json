@@ -8,7 +8,16 @@
     "title": "英文Title",
     "description": "英文description",
     "h1Text": "英文首页 H1",
-    "descriptionBelowH1Text": "英文首页 H1下方的文字"
+    "descriptionBelowH1Text": "英文首页 H1下方的文字",
+    "stickerGenerator": "Sticker Generator",
+    "inputPlaceholder": "Type or paste text here...",
+    "inputRequired": "Please enter text to generate sticker",
+    "generateButton": "Generate Sticker",
+    "generating": "Generating...",
+    "generateFailed": "Generation failed",
+    "networkError": "Network error, please try again",
+    "result": "Generation Result",
+    "prompt": "Prompt"
   },
   "CommonText": {
     "loadingText": "Loading...",
